@@ -1,0 +1,4 @@
+reference: NCBI37/mm9
+upstream: 2000.
+downstream: 0.
+retrive: gene, entriz ID, chr, start, end, strand
